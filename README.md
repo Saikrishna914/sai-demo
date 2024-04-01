@@ -1,2 +1,2 @@
-# sai-demo
+# demo
 my first git repository
